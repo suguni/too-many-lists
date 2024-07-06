@@ -300,11 +300,7 @@ Well, yeah. You're reading a book dedicated to that premise. Well, singly-linked
 
 Ok. 이제 됐어요. 이제 수많은 연결 리스트를 작성해 봅시다.
 
-Ok. That's out of the way. Let's write a bajillion linked lists.
-
 [첫 번째 챕터로!](first.md)
-
-[On to the first chapter!](first.md)
 
 
 [rust-std-list]: https://doc.rust-lang.org/std/collections/struct.LinkedList.html
